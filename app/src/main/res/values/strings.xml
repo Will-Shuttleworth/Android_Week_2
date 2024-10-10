@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidWeek2</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="radio_button_yes">Yes</string>
+    <string name="radio_button_no">No</string>
+    <string name="edit_password">Enter a password</string>
+    <string name="check_task">Task complete?</string>
+</resources>
